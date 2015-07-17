@@ -1,6 +1,6 @@
 <package>
 	<id>org.seatanners.unifaces</id>
-	<name>Full Package</name>
+	<name>UniFaces</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -17,7 +17,7 @@
 		<screenshot>
 			<description>Screenshot</description>
 			<image>unifaces-1.png</image>
-		</screenshot>			
+		</screenshot>
 	</screenshots>
 	<changelog>
         <change>Added iOS 8.4 support</change>
@@ -28,7 +28,7 @@
 			<name>Reddit /u/seatanners</name>
 			<url>https://www.reddit.com/u/seatanners</url>
 		</link>
-		
+
 		<link>
 			<name>Twitter @seatanners</name>
 			<url>https://twitter.com/seatanners</url>
