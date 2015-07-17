@@ -10,5 +10,5 @@ SHA256: 18816fdd03a42b4edf0403713d3c65357c4a95fe1eb215955ba077277755ebd2
 Section: Tweaks
 Description: A keyboard extension that allows you to type Unicode faces! Hold down space to activate.
 Author: seatanners <1seatanners@gmail.com>
-Depiction: http://seatanners.github.io/repo/depic/unifaces/index.html
+Depiction: http://seatanners.github.io/repo/depic/index.html?p=org.seatanners.unifaces
 Name: UniFaces

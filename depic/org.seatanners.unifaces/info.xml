@@ -1,0 +1,36 @@
+<package>
+	<id>org.seatanners.unifaces</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Adds Unicode faces to your keyboard! Just hold down space.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot</description>
+			<image>unifaces-1.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>1.1 - Initial re-release, added iOS 8.4 support</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/seatanners</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/seatanners</url>
+		</link>
+	</links>
+</package>
