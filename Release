@@ -1,0 +1,10 @@
+Origin: repo de seatanners
+Label: repo de seatanners
+Suite: stable
+Version: 1.0
+Codename: seatanners
+Architectures: iphoneos-arm
+Components: main
+Description: repo de seatanners
+MD5Sum:
+

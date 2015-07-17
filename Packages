@@ -1,0 +1,15 @@
+Package: org.seatanners.unifaces
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: seatanners <1seatanners@gmail.com>
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Filename: debs//org.seatanners.unifaces.deb
+MD5sum: abe0eee796d9a431293e59e8838214aa
+SHA1: 3940f4ab374396591fc88893e33d0d8f1e82be81
+SHA256: 18816fdd03a42b4edf0403713d3c65357c4a95fe1eb215955ba077277755ebd2
+Section: Tweaks
+Description: A keyboard extension that allows you to type Unicode faces! Hold down space to activate.
+Author: seatanners <1seatanners@gmail.com>
+Depiction: http://seatanners.github.io/depic/unifaces/index.html
+Name: UniFaces
+
