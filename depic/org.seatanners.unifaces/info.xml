@@ -1,7 +1,7 @@
 <package>
 	<id>org.seatanners.unifaces</id>
 	<name>Full Package</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>5.0</miniOS>
@@ -20,16 +20,17 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>1.1 - Initial re-release, added iOS 8.4 support</change>
+        <change>Added iOS 8.4 support</change>
+		<change>Initial re-release</change>
 	</changelog>
 	<links>
 		<link>
-			<name>Reddit</name>
+			<name>Reddit /u/seatanners</name>
 			<url>https://www.reddit.com/u/seatanners</url>
 		</link>
 		
 		<link>
-			<name>Twitter</name>
+			<name>Twitter @seatanners</name>
 			<url>https://twitter.com/seatanners</url>
 		</link>
 	</links>
